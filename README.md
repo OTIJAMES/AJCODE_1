@@ -1,3 +1,2 @@
-hello brother, Git
-hello brother, Git
+hello , Git
 welcome to my awesome page
